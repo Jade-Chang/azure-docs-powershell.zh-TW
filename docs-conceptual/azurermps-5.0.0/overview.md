@@ -41,6 +41,7 @@ Azure PowerShell 提供了一組 Cmdlet，它們會使用 [Azure Resource Manage
 * [使用 PowerShell 編寫指令碼](/powershell/scripting/scripting-with-windows-powershell)
 
 您也可以觀賞這段影片︰[PowerShell 基本概念：(第 1 部分) 開始使用 PowerShell](https://channel9.msdn.com/Blogs/Taste-of-Premier/PowerShellBasicsPart1)。
+[Windows PowerShell 入門班](https://channel9.msdn.com/Events/Windows-PowerShell-TW/entrylevel/01)。
 
 或是參加 Microsoft Virtual Academy 的[開始使用 PowerShell Jumpstart](https://mva.microsoft.com/liveevents/powershell-jumpstart)。
 
